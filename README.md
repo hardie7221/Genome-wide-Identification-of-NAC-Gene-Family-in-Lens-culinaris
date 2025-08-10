@@ -18,8 +18,3 @@ NAC transcription factors play vital roles in plant development, stress response
 - Multiple sequence alignment and phylogenetic tree construction using MEGA and Chimera.
 - Detailed chromosomal mapping of NAC genes across Fabaceae relatives.
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Genome-wide-Identification-of-NAC-Gene-Family-in-Lens-culinaris.git
